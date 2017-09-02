@@ -1,0 +1,22 @@
+# my zshrc
+
+#alias mplab="/opt/microchip/mplabx/mplab_ide/bin/mplab_ide"
+#alias matlab="/usr/local/MATLAB/MATLAB_Production_Server/R2013a/bin/matlab"
+#alias quartus="/usr/local/altera/14.1/quartus/bin/quartus"
+
+# added by Anaconda3 2.3.0 installer
+export PATH="/home/gui/anaconda3/bin:$PATH"
+
+#alias matlab="/usr/local/MATLAB/R2013a/bin/matlab"
+alias matlab="/usr/local/MATLAB/MATLAB_Production_Server/R2015a/bin/matlab"
+alias genBOM="~/pjt/python/pcb/genFarnellBOM.sh"
+alias mp="mplayer"
+alias stcube="/usr/local/STMicroelectronics/STM32Cube/STM32CubeMX/STM32CubeMX"
+
+alias mex="/usr/local/MATLAB/MATLAB_Production_Server/R2015a/bin/mex"
+
+alias gr="grep -n"
+
+alias findsym="/home/gui/pjt/shell/findSymbol.sh"
+
+alias synchrost="/home/gui/pjt/python/synchrost.py"
