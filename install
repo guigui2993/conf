@@ -1,3 +1,5 @@
 # Install
 
 sudo apt-get install vim zsh minicom git
+
+chsh -s $(which zsh)
